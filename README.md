@@ -23,7 +23,7 @@ BASIC SELECT
 | 2 | [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem) | Easy | [T-SQL](Basic%20Select/revising_the_select_query_II.sql) |
 | 3 | [Select All](https://www.hackerrank.com/challenges/select-all-sql/problem) | Easy | [T-SQL](Basic%20Select/select_all.sql) |
 | 4 | [Select by ID](https://www.hackerrank.com/challenges/select-by-id/problem) | Easy | [T-SQL](Basic%20Select/select_by_id.sql) |
-| 5 | [Japanese Cities Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem) | Easy | [T-SQL](Basic%20Select/japanes_cities_attributes.sql) |
+| 5 | [Japanese Cities Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem) | Easy | [T-SQL](Basic%20Select/japanese_cities_attributes.sql) |
 | 6 | [Japanese Cities Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem) | Easy | [T-SQL](Basic%20Select/japanese_cities_names.sql) |
 | 7 | [Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1/problem) | Easy | [T-SQL](Basic%20Select/weather_observation_station_1.sql) |
 | 8 | [Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3/problem) | Easy | [T-SQL](Basic%20Select/weather_observation_station_3.sql) |
