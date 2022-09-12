@@ -3,11 +3,11 @@
 <img height=60 src="https://hrcdn.net/community-frontend/assets/brand/logo-new-white-green-a5cb16e0ae.svg"> 
 </p>
 
-<h1 align="center">
-![GitHub top language](https://img.shields.io/github/languages/top/mBohunickaCharles/SQL_HackerRank?style=plastic)
-![GitHub last commit](https://img.shields.io/github/last-commit/mBohunickaCharles/SQL_HackerRank?style=plastic)
-![ViewCount](https://views.whatilearened.today/views/github/mBohunickaCharles/SQL_HackerRank.svg?style=plastic)
-</h1>
+<div align="center">
+<a href="">![GitHub top language](https://img.shields.io/github/languages/top/mBohunickaCharles/SQL_HackerRank?style=plastic)</a>
+<a href="">![GitHub last commit](https://img.shields.io/github/last-commit/mBohunickaCharles/SQL_HackerRank?style=plastic)</a>
+<a href="">![ViewCount](https://views.whatilearened.today/views/github/mBohunickaCharles/SQL_HackerRank.svg?style=plastic)</a>
+</div>
 
 BASIC SELECT
 
