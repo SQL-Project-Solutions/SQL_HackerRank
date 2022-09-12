@@ -35,10 +35,10 @@ BASIC SELECT
 | 14| [Weather Observation Station 9](https://www.hackerrank.com/challenges/weather-observation-station-9/problem) | Easy | [T-SQL](Basic%20Select/weather_observation_station_9.sql) |
 | 15| [Weather Observation Station 10](https://www.hackerrank.com/challenges/weather-observation-station-10/problem) | Easy | [T-SQL](Basic%20Select/weather_observation_station_10.sql) |
 | 16| [Weather Observation Station 11](https://www.hackerrank.com/challenges/weather-observation-station-11/problem) | Easy | [T-SQL](Basic%20Select/weather_observation_station_11.sql) |
-| 17| [Weather Observation Station 12          ](https://www.hackerrank.com/challenges/weather-observation-station-12/problem) | Easy | [T-SQL](Basic%20Select/weather_observation_station_12.sql) |
+| 17| [Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12/problem) | Easy | [T-SQL](Basic%20Select/weather_observation_station_12.sql) |
 | 18| [Higher than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem) | Easy | [T-SQL](Basic%20Select/higher_than_75_marks.sql) |
 | 19| [Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem) | Easy | [T-SQL](Basic%20Select/employee_names.sql) |
-| 20| [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem) | Easy | [T-SQL](Basic%20Select/employee_salaries) |
+| 20| [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem) | Easy | [T-SQL](Basic%20Select/employee_salaries.sql) |
 <br/>
 
 ADVANCED SELECT
