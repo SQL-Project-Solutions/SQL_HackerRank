@@ -5,7 +5,7 @@ BASIC SELECT
 
 | Number | Challenge | Difficulty Level | Solution |
 |:------:|-----------|------------------|:--------:|
-| 1 | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | Easy | [MS SQL]('Basic Select'/revising_the_select_query_I.sql) |
+| 1 | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | Easy | [MS SQL](Basic_Select/revising_the_select_query_I.sql) |
 | 2 | [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem) | Easy | [MS SQL](Basic Select/revising_the_select_query_II.sql) |
 | 3 | [Select All](https://www.hackerrank.com/challenges/select-all-sql/problem) | Easy | [MS SQL](Basic Select/select_all.sql) |
 | 4 | [Select by ID](https://www.hackerrank.com/challenges/select-by-id/problem) | Easy | [MS SQL](Basic Selectselect_by_id.sql) |
