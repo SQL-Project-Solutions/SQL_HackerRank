@@ -8,7 +8,7 @@ This repository provides solutions to HackerRank challenges in SQL. Structured Q
 
 Below, you will find tables or individual sections, with challenge name, difficulty level and a link to solution.
 </br>
-
+</br>
 
 BASIC SELECT
 
