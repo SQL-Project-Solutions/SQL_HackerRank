@@ -12,7 +12,7 @@
 
 This repository provides solutions to HackerRank challenges in SQL. Structured Query Language or simply (SQL) is not only simple to learn, but it also continues to be a highly in-demand skill. I used MS Server SQL or Transact-SQL option for solving those challenges.
 
-Below, you will find tables or individual sections, with challenge name, difficulty level and a link to solution.
+Below, you will find tables for individual sections, with challenge name, difficulty level and a link to solution.
 </br>
 </br>
 BASIC SELECT
