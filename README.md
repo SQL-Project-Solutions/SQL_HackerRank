@@ -2,16 +2,12 @@
 <p align="center">  
 <img height=60 src="https://hrcdn.net/community-frontend/assets/brand/logo-new-white-green-a5cb16e0ae.svg"> 
 </p>
-
+</br>
 
 This repository provides solutions to HackerRank challenges in SQL. Structured Query Language or simply (SQL) is not only simple to learn, but it also continues to be a highly in-demand skill. I used MS Server SQL or Transact-SQL option for solving those challenges.
 
 Below, you will find tables or individual sections, with challenge name, difficulty level and a link to solution.
-
-
-
-
-
+</br>
 BASIC SELECT
 
 | Number | Challenge | Difficulty Level | Solution |
