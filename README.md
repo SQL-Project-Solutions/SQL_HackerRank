@@ -29,7 +29,7 @@ ADVANCED SELECT
 
 | Number | Challenge | Difficulty Level | Solution |
 |:------:|-----------|------------------|:--------:|
-| 1 | [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem) | Easy | [T-SQL](Advanced_Select/type_of_triangle.sql) |
+| 1 | [Type of Triangle                        ](https://www.hackerrank.com/challenges/what-type-of-triangle/problem) | Easy | [T-SQL](Advanced_Select/type_of_triangle.sql) |
 | 2 | [The Pads](https://www.hackerrank.com/challenges/the-pads/problem) | Medium | [T-SQL](Advanced_Select/the_pads.sql) |
 | 3 | [Occupations](https://www.hackerrank.com/challenges/occupations/problem) | Medium | [T-SQL](Advanced_Select/occupations.sql) |
 | 4 | [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem) | Medium | [T-SQL](Advanced_Select/binary_tree_nodes.sql) |
