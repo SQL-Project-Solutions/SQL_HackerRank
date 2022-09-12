@@ -1,4 +1,14 @@
 
+<p align="center">  
+	<br>
+	<a href="https://www.hackerrank.com/Thomas_George_T">
+        <img height=100 src="https://hrcdn.net/community-frontend/assets/brand/logo-new-white-green-a5cb16e0ae.svg"> 
+    </a>
+    <br>
+    <br>
+</p>
+
+
 BASIC SELECT
 
 | Number | Challenge | Difficulty Level | Solution |
@@ -35,6 +45,8 @@ ADVANCED SELECT
 | 4 | [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem) | Medium | [T-SQL](Advanced_Select/binary_tree_nodes.sql) |
 | 5 | [New Companies](https://www.hackerrank.com/challenges/the-company/problem) | Medium | [T-SQL](Advanced_Select/new_companies.sql) |
 
+
+
 AGGREGATION
 
 | Number | Challenge | Difficulty Level | Solution |
@@ -56,6 +68,8 @@ AGGREGATION
 | 15| [Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem) | Medium | [T-SQL](Aggregation/weather_observation_station_19.sql) |
 | 16| [Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20/problem) | Medium | [T-SQL](Aggregation/weather_observation_station_20.sql) |
 
+
+
 BASIC JOIN
 
 | Number | Challenge | Difficulty Level | Solution |
@@ -68,6 +82,8 @@ BASIC JOIN
 | 6 | [Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem) | Medium | [T-SQL](Basic_Join/ollivanders_inventory.sql) |
 | 7 | [Challenges](https://www.hackerrank.com/challenges/challenges/problem) | Medium | [T-SQL](Basic_Join/challenges.sql) |
 | 8 | [Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem) | Medium | [T-SQL](Basic_Join/contest_leaderboard.sql) |
+
+
 
 
 ADVANCED JOIN
