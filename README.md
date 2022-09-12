@@ -57,7 +57,7 @@ AGGREGATION
 | Number | Challenge | Difficulty Level | Solution |
 |:------:|-----------|------------------|:--------:|
 | 1 | [Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem) | Easy | [T-SQL](Aggregation/revising_aggregations_the_sum_function.sql) |
-| 2 | [Revising Aggregations - Averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem) | Easy | [T-SQL](Aggregation/revising_aggregations_average.sql) |
+| 2 | [Revising Aggregations - Averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem) | Easy | [T-SQL](Aggregation/revising_aggregations_averages.sql) |
 | 3 | [Average Population](https://www.hackerrank.com/challenges/average-population/problem) | Easy | [T-SQL](Aggregation/average_population.sql) |
 | 4 | [Japan Population](https://www.hackerrank.com/challenges/japan-population/problem) | Easy | [T-SQL](Aggregation/japan_population.sql) |
 | 5 | [Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference/problem) | Easy | [T-SQL](Aggregation/population_density_difference.sql) |
