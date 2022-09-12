@@ -1,12 +1,12 @@
 
 <p align="center">  
         <img height=60 src="https://hrcdn.net/community-frontend/assets/brand/logo-new-white-green-a5cb16e0ae.svg"> 
+        
 </p>
 
-
-
-
-
+![GitHub top language](https://img.shields.io/github/languages/top/mBohunickaCharles/SQL_HackerRank?style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/mBohunickaCharles/SQL_HackerRank?style=flat)
+![ViewCount](https://views.whatilearened.today/views/github/mBohunickaCharles/SQL_HackerRank?cache=remove)
 
 BASIC SELECT
 
@@ -17,7 +17,7 @@ BASIC SELECT
 | 3 | [Select All](https://www.hackerrank.com/challenges/select-all-sql/problem) | Easy | [T-SQL](Basic_Select/select_all.sql) |
 | 4 | [Select by ID](https://www.hackerrank.com/challenges/select-by-id/problem) | Easy | [T-SQL](Basic_Selectselect_by_id.sql) |
 | 5 | [Japanese Cities Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem) | Easy | [T-SQL](Basic_Select/japanes_cities_attributes.sql) |
-| 6 | [Japanese Cities Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem) | Easy | [MS SQL](Basic_Select/japanese_cities_names.sql) |
+| 6 | [Japanese Cities Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem) | Easy | [T-SQL](Basic_Select/japanese_cities_names.sql) |
 | 7 | [Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1/problem) | Easy | [T-SQL](Basic_Select/weather_observation_station_1.sql) |
 | 8 | [Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3/problem) | Easy | [T-SQL](Basic_Select/weather_observation_station_3.sql) |
 | 9 | [Weather Observation Station 4](https://www.hackerrank.com/challenges/weather-observation-station-4/problem) | Easy | [T-SQL](Basic_Select/weather_observation_station_4.sql) |
