@@ -4,12 +4,17 @@
 </p>
 </br>
 
+![language](https://img.shields.io/github/languages/top/mBohunickaCharles/SQL_HackerRank?style=flat)
+![last_commit](https://img.shields.io/github/last-commit/mBohunickaCharles/SQL_HackerRank?style=flat)
+![views_count](https://views.whatilearened.today/views/github/mBohunickaCharles/SQL_HackerRank.svg?cache=remove)
+</br>
+
+
 This repository provides solutions to HackerRank challenges in SQL. Structured Query Language or simply (SQL) is not only simple to learn, but it also continues to be a highly in-demand skill. I used MS Server SQL or Transact-SQL option for solving those challenges.
 
 Below, you will find tables or individual sections, with challenge name, difficulty level and a link to solution.
 </br>
 </br>
-
 BASIC SELECT
 
 | Number | Challenge | Difficulty Level | Solution |
@@ -34,7 +39,7 @@ BASIC SELECT
 | 18| [Higher than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem) | Easy | [T-SQL](Basic_Select/higher_than_75_marks.sql) |
 | 19| [Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem) | Easy | [T-SQL](Basic_Select/employee_names.sql) |
 | 20| [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem) | Easy | [T-SQL](Basic_Select/employee_salaries) |
-
+<br/>
 
 ADVANCED SELECT
 
@@ -45,8 +50,7 @@ ADVANCED SELECT
 | 3 | [Occupations](https://www.hackerrank.com/challenges/occupations/problem) | Medium | [T-SQL](Advanced_Select/occupations.sql) |
 | 4 | [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem) | Medium | [T-SQL](Advanced_Select/binary_tree_nodes.sql) |
 | 5 | [New Companies](https://www.hackerrank.com/challenges/the-company/problem) | Medium | [T-SQL](Advanced_Select/new_companies.sql) |
-
-
+<br/>
 
 AGGREGATION
 
@@ -68,8 +72,7 @@ AGGREGATION
 | 14| [Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18/problem) | Medium | [T-SQL](Aggregation/weather_observation_station_18.sql) |
 | 15| [Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem) | Medium | [T-SQL](Aggregation/weather_observation_station_19.sql) |
 | 16| [Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20/problem) | Medium | [T-SQL](Aggregation/weather_observation_station_20.sql) |
-
-
+<br/>
 
 BASIC JOIN
 
@@ -83,9 +86,7 @@ BASIC JOIN
 | 6 | [Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem) | Medium | [T-SQL](Basic_Join/ollivanders_inventory.sql) |
 | 7 | [Challenges](https://www.hackerrank.com/challenges/challenges/problem) | Medium | [T-SQL](Basic_Join/challenges.sql) |
 | 8 | [Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem) | Medium | [T-SQL](Basic_Join/contest_leaderboard.sql) |
-
-
-
+<br/>
 
 ADVANCED JOIN
 
@@ -96,6 +97,7 @@ ADVANCED JOIN
 | 3 | [Symmetric Pairs](https://www.hackerrank.com/challenges/symmetric-pairs/problem) | Medium | [T-SQL](Advanced_Join/symmetric_pairs.sql) |
 | 4 | [Interviews](https://www.hackerrank.com/challenges/interviews/problem) | Hard | [T-SQL](Advanced_Join/interviews.sql) |
 | 5 | [15 Days of Learning SQL](https://www.hackerrank.com/challenges/15-days-of-learning-sql/problem) | Hard | [T-SQL](Advanced_Join/15_days_of_learning_sql.sql) |
+<br/>
 
 ALTERNATIVE QUERIES
 
