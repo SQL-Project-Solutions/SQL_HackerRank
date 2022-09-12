@@ -5,8 +5,7 @@
 
 <div align="center">
 <a href="">![GitHub top language](https://img.shields.io/github/languages/top/mBohunickaCharles/SQL_HackerRank?style=plastic)</a>
-<a href="">![GitHub last commit](https://img.shields.io/github/last-commit/mBohunickaCharles/SQL_HackerRank?style=plastic)</a>
-<a href="">![ViewCount](https://views.whatilearened.today/views/github/mBohunickaCharles/SQL_HackerRank.svg?style=plastic)</a>
+
 </div>
 
 BASIC SELECT
