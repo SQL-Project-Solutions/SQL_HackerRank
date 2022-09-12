@@ -6,7 +6,7 @@
 
 ![GitHub top language](https://img.shields.io/github/languages/top/mBohunickaCharles/SQL_HackerRank?style=flat)
 ![GitHub last commit](https://img.shields.io/github/last-commit/mBohunickaCharles/SQL_HackerRank?style=flat)
-![ViewCount](https://views.whatilearened.today/views/github/mBohunickaCharles/SQL_HackerRank?cache=remove)
+![ViewCount](https://views.whatilearened.today/views/github/mBohunickaCharles/SQL_HackerRank.svg?cache=remove)
 
 BASIC SELECT
 
